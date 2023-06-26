@@ -48,7 +48,7 @@ In conclusion, cyber security is a critical aspect of managing and maintaining c
 
 ## Technical Documentation
 
-[Step by step documentation](https://docs.google.com/document/d/12MrB4sbUnF1ZJhR_CbEm4uQhG_kIhjHG_TyX9EsS8Xg/edit)
+[Step by step documentation](https://docs.google.com/document/d/18heoZMTmTu6IUGT8mxNgo8yiquxcHLWA/edit)
 
 ## Presentation
 
