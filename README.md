@@ -68,7 +68,7 @@ In conclusion, cyber security is a critical aspect of managing and maintaining c
 
 ## Q&A
 
-[Questions](https://docs.google.com/document/d/1nwt-gR4p54zBJiEdsXLcyviLkwR1e_oZvAK6U_h1xE0/edit) 
+[Questions](https://docs.google.com/document/d/1Ro-ZTwU1Tve-CrWI8JzAtLtolIwHU9Ls/edit) 
 
 ## Youtube Resources 
 
